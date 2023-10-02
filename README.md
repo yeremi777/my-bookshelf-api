@@ -1,8 +1,8 @@
 # Bookshelf API
 
-Created with Node.js and Hapi.js
+A simple CRUD API to manage the list of books.
 
-A simple CRUD API to manage the list of books
+Created with Node.js and Hapi.js.
 
 ## Run this project
 
