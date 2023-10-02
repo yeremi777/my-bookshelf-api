@@ -2,6 +2,8 @@
 
 Created with Node.js and Hapi.js
 
+A simple CRUD API to manage the list of books
+
 ## Run this project
 
 Before run this project in directory, don't forget to run `npm install`.
